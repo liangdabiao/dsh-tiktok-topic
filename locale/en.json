@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "TikTok Topic Radar",
+    "description": "Query works under a TikTok topic (challengeId/hashtagId): views/likes/comments/shares plus full work links, sortable, cursor-paginated, with a sidebar dashboard. Requires a RedFox API key."
+  }
+}

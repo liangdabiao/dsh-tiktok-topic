@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "TikTok 话题雷达",
+    "description": "按 TikTok 话题 ID 查询话题下作品列表：播放/点赞/评论/分享核心数据 + 完整作品链接，排序切换与游标翻页，侧栏看板。需 RedFox API Key。"
+  }
+}

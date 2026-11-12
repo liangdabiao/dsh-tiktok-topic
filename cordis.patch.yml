@@ -1,0 +1,5 @@
+# TikTok 话题雷达：tiktok_topic 工具（话题作品查询/历史）+ tiktok-topic-aweme-list 技能 + 侧栏看板。
+# 浏览器半边由 dsh.client 声明加载。
+- insert:
+    - id: tiktok-topic
+      name: 'dsh-tiktok-topic'

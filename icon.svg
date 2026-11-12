@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect x="3" y="3" width="58" height="58" rx="13" fill="#f7f7fb"/>
+  <rect x="3" y="3" width="58" height="58" rx="13" fill="none" stroke="#161823" stroke-width="3"/>
+  <!-- TikTok 风：话题 # 标记 + 音符波纹 -->
+  <text x="20" y="42" font-family="Arial, sans-serif" font-size="34" font-weight="800" fill="#161823">#</text>
+  <path d="M38 18 v20 a8 8 0 1 1 -5 -7.4" fill="none" stroke="#fe2c55" stroke-width="5" stroke-linecap="round"/>
+  <path d="M38 18 a10 10 0 0 0 9 6" fill="none" stroke="#25f4ee" stroke-width="5" stroke-linecap="round"/>
+</svg>
