@@ -3,6 +3,8 @@
 DeepSeek Harness（dsh）插件：**按 TikTok 话题 ID 查询话题下作品列表**。播放/点赞/评论/分享核心数据 + 完整作品链接，默认播放数降序，支持点赞/评论/分享排序切换与游标翻页，侧栏看板。
 
 移植自 [redfox-data/redfox-community](https://github.com/redfox-data/redfox-community) 的 `skills/tiktok-topic-aweme-list`（Python 脚本重写为 Node 原生，**零 Python 依赖**；渲染规则、错误处理与积分保护原则完整保留）。
+<img width="2478" height="1170" alt="image" src="https://github.com/user-attachments/assets/e833f201-0251-48ad-a21d-699199047372" />
+
 
 ## 功能
 
