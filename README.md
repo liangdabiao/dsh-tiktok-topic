@@ -6,6 +6,12 @@ DeepSeek Harness（dsh）插件：**按 TikTok 话题 ID 查询话题下作品�
 <img width="2478" height="1170" alt="image" src="https://github.com/user-attachments/assets/e833f201-0251-48ad-a21d-699199047372" />
 
 
+## 安装
+
+```bash
+dsh plugin --profile web add https://github.com/liangdabiao/dsh-tiktok-topic
+```
+
 ## 功能
 
 - 🔍 **话题作品查询**：输入话题 ID（challengeId / hashtagId），同步秒回该话题下作品
